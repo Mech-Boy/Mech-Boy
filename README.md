@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mech-Boy
+- 👋 Hi, I’m a Software Enthusiast
 - 👀 I’m interested in Coding in Java and learning new Language and AI Related things
 - 🌱 I’m currently learning OOP with JAVA and course  of Fullstack development 
 - 💞️ I’m looking to collaborate on new programming projects for begginer and 
